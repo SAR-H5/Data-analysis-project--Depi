@@ -30,7 +30,7 @@ To effectively run and utilize this project, you will need the following:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/SAR-H5/Data-analysis-project--Depi.git]
+    git clone https://github.com/SAR-H5/Data-analysis-project--Depi.git .
     cd HR-Data-Analysis-and-Visualization
     ```
 2.  **Install Python Dependencies:**
@@ -77,8 +77,8 @@ To effectively run and utilize this project, you will need the following:
   * **[Placeholder for Image/GIF: Screenshot of the final Tableau Visualization]**
 
       * *Caption: Tableau Visualization highlighting Employee Distribution and Performance*
-6.**Contributing Section**
-    Contributions by classmates .
+## 6\. Contributing Section
+  This project was developed in collaboration with classmates, who contributed to different parts of the analysis and visualization .
 -----
 
 *The project structure generally includes:*
